@@ -1,6 +1,6 @@
 # Responsive Watches Website ⌚
 
-Website Link: https://davidfrear.github.io/-Responsive-Website-eCommerce/
+Website Link: https://davidfrear.github.io/Responsive-Website-eCommerce/
 
 - Responsive Watches Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
